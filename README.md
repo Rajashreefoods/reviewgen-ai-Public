@@ -1,8 +1,20 @@
-# Rajshree Foods ReviewGen AI V1.1
+# Rajashree Foods ReviewGen AI V1.2
 
-Updated Google Review button link to the direct Rajshree Foods review URL.
+Updated for the new GitHub login / branding: Rajashreefoods.
 
-Upload files directly to GitHub Pages repository root:
+## Website URL to use for QR
+Use this page URL after publishing GitHub Pages:
+
+https://rajashreefoods.github.io/reviewgen-ai/
+
+## Google Review Button
+The app keeps the direct Google Review button URL:
+
+https://g.page/r/CeGK9U4HXqwAEAI/review
+
+## Upload to GitHub Pages
+Upload these files directly to your repository root:
+
 - index.html
 - style.css
 - app.js
